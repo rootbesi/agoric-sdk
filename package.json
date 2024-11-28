@@ -62,7 +62,7 @@
     "timeout": "30m"
   },
   "dependencies": {
-    "patch-package": "^6.2.2"
+    "patch-package": "^7.0.1"
   },
   "resolutions": {
     "**/react-scripts/@babel/core": "^7.12.3",
