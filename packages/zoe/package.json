@@ -49,7 +49,7 @@
     "@agoric/swingset-vat": "^0.25.1",
     "@agoric/vat-data": "^0.1.0",
     "@endo/bundle-source": "^2.1.1",
-    "@endo/far": "^0.1.9",
+    "@endo/far": "^0.2.16",
     "@endo/import-bundle": "^0.2.41",
     "@endo/marshal": "^0.6.3",
     "@endo/promise-kit": "^0.2.37"
