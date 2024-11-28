@@ -39,7 +39,7 @@
     "@agoric/vats": "^0.7.0",
     "@agoric/zoe": "^0.21.3",
     "@endo/bundle-source": "^2.1.1",
-    "@endo/captp": "^2.0.3",
+    "@endo/captp": "^4.0.0",
     "@endo/init": "^0.5.37",
     "@endo/marshal": "^0.6.3",
     "@endo/promise-kit": "^0.2.37"
