@@ -37,7 +37,7 @@
     "@agoric/vat-data": "^0.1.0",
     "@endo/base64": "^0.2.21",
     "@endo/bundle-source": "^2.1.1",
-    "@endo/captp": "^2.0.3",
+    "@endo/captp": "^4.0.0",
     "@endo/compartment-mapper": "^0.7.1",
     "@endo/check-bundle": "^0.1.2",
     "@endo/import-bundle": "^0.2.41",
