@@ -33,7 +33,7 @@
     "@opentelemetry/semantic-conventions": "^1.0.1",
     "anylogger": "^0.21.0",
     "better-sqlite3": "^7.4.1",
-    "bufferfromfile": "agoric-labs/BufferFromFile#Agoric-built",
+    "bufferfromfile": "0.4.364",
     "tmp": "^0.2.1"
   },
   "devDependencies": {
