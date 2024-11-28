@@ -42,7 +42,7 @@
     "@agoric/zoe": "^0.21.3",
     "@endo/bundle-source": "^2.1.1",
     "@endo/captp": "^2.0.3",
-    "@endo/far": "^0.1.9",
+    "@endo/far": "^0.2.16",
     "@endo/marshal": "^0.6.3",
     "@endo/promise-kit": "^0.2.37"
   },
