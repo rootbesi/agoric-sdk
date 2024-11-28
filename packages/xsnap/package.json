@@ -34,7 +34,7 @@
     "@endo/netstring": "^0.3.7",
     "@endo/stream": "^0.3.6",
     "@endo/stream-node": "^0.2.7",
-    "glob": "^7.1.6"
+    "glob": "^9.0.0"
   },
   "devDependencies": {
     "@endo/base64": "^0.2.21",
