@@ -31,7 +31,7 @@
     "@agoric/telemetry": "^0.1.1",
     "@agoric/vats": "^0.7.0",
     "@agoric/xsnap": "^0.11.2",
-    "@endo/import-bundle": "^0.2.41",
+    "@endo/import-bundle": "^1.0.0",
     "@endo/init": "^0.5.37",
     "@endo/marshal": "^0.6.3",
     "@iarna/toml": "^2.2.3",
