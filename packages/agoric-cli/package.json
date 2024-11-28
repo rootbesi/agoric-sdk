@@ -31,7 +31,7 @@
     "@agoric/assert": "^0.3.16",
     "@agoric/nat": "^4.1.0",
     "@endo/bundle-source": "^2.1.1",
-    "@endo/captp": "^2.0.3",
+    "@endo/captp": "^4.0.0",
     "@endo/compartment-mapper": "^0.7.1",
     "@endo/init": "^0.5.37",
     "@endo/promise-kit": "^0.2.37",
